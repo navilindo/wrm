@@ -5,7 +5,8 @@ by: Navilindo AM
 */
 
 body {
-  background-color : gray;
+  background-color : rgb(193, 193, 193);
+  background-color: yellow;
 }
 
 /*
@@ -18,3 +19,11 @@ font-family: 'Poppins', sans-serif;
 font-family: 'Quicksand', sans-serif;
 
 */
+
+/* main */
+
+.page-heading {
+  color: #123456;
+  font-weight: 700;
+  font-family: 'Barlow', sans-serif;
+}
