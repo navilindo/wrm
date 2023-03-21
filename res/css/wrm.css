@@ -31,5 +31,5 @@ font-family: 'Quicksand', sans-serif;
 #index-welcome {
   height: 100vh;
   background-image: linear-gradient(160deg, var(--btRed), var(--btBlue));
-  background-image: linear-gradient(160deg,yellow, blue);
+  background-image: linear-gradient(160deg,yellow, black);
 }
